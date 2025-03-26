@@ -1,0 +1,9 @@
+.fit-picture {
+ position: absolute;
+ top: 0;
+ right: 0;
+}
+
+.top-right-image-wrapper{
+    width: 10px;
+}
